@@ -1,21 +1,17 @@
 <!--h1 without bottom border-->
-<div id="user-content-toc">
+<div>
   <ul align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=30&color=white&width=370&height=100&lines=Hi+%2C+I'm+Sashini+Jayarathna+%F0%9F%91%8B" alt="Typing SVG" /></a>
-  </ul>
+  <h1>Hi, I'm Sashini Jayarathna <h1/>
 </div>
-
+    
 <!--horizontal divider(gradiant)-->
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
+---
+<div>
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is just another step in the journey of mastering programming</h2></summary>
+    <h2 >Confusion is just another step in the journey of mastering programming</h2>
   </ul>
 </div>
+
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
 <!--Intro start-->
 - 🔭 I’m currently working on **React, Nodejs, MongoDB, Firebase**
@@ -90,6 +86,6 @@
 
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 
